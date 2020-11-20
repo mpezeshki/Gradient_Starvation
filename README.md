@@ -26,7 +26,7 @@ Check out our interactive blog post [here](https://mohammadpz.github.io/Gradient
 ```
 @article{pezeshki2020gradient,
 title={Gradient Starvation: A Learning Proclivity in Neural Networks},
-author={Pezeshki, Mohammad and Kaba, Sékou-Oumar and Bengio, Yoshua and Courville, Aaron and Precup, Doina and Lajoie, Guillaume },
-journal={arXiv preprint arXiv:????},
+author={Pezeshki, Mohammad and Kaba, Sékou-Oumar and Bengio, Yoshua and Courville, Aaron and Precup, Doina and Lajoie, Guillaume},
+journal={arXiv preprint arXiv:2011.09468},
 year={2020}}
 ```
