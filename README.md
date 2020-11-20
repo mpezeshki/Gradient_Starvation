@@ -2,7 +2,7 @@
 This repo implements the experiments provided in the following paper:
 
 > Mohammad Pezeshki, Sékou-Oumar Kaba, Yoshua Bengio, Aaron Courville, Doina Precup, Guillaume Lajoie
-> [Gradient Starvation: A Learning Proclivity in Neural Networks](https://arxiv.org/abs)
+> [Gradient Starvation: A Learning Proclivity in Neural Networks](https://arxiv.org/abs/2011.09468)
 
 The provided code for each figure or table is standalone and does not depend on other folders. This has resulted in code repetition but facilitates reusability. To run the code, simply run the main `.sh` or `.py` file.
 
