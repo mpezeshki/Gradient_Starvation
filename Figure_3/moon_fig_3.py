@@ -18,7 +18,7 @@ seeds = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 # A two-layer neural netowrk with the following number of hidden units
 hidden_dim = 500
 n_samples = 300
-epochs = 1000
+epochs = 10000
 
 dataset = lambda seed: two_moons_dataset(seed, margin=+0.1)
 experiments = [
